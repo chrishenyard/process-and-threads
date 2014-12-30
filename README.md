@@ -1,4 +1,6 @@
 process-and-threads
 ===================
 
-A process and one or more threads.  This project is the answer to: Describe the difference between a Thread and a Process?
+Visual Studio vNext console solution.
+
+A process and one or more threads.  An example of using Task.Factory.StartNew. 
